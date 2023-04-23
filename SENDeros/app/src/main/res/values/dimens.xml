@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="return_arrow">25sp</dimen>
+    <dimen name="size_text_settings">15sp</dimen>
+    <dimen name="paddingStart_settings">25dp</dimen>
+    <dimen name="cardView_setting_size">55dp</dimen>
+    <dimen name="space_cardView_settings">35dp</dimen>
+    <dimen name="paddingTop_setting_text">18dp</dimen>
+    <dimen name="ScrollView_margin">5dp</dimen>
+    <dimen name="paddingTop_setting_icons">12dp</dimen>
+    <dimen name="space_cardview_setting_end">60dp</dimen>
+</resources>

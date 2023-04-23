@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SENDeros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_SETTING">Ajustes</string>
+    <string name="text_setting_general">General</string>
+    <string name="text_map_view">Visualizacion del mapa</string>
+    <string name="text_notices">Avisos</string>
+    <string name="text_area">Área</string>
+    <string name="text_start_session">Cuenta e inicio de sesión</string>
+    <string name="text_inform_problem">Informar un problema</string>
+    <string name="text_information">Información</string>
+    <string name="text_invite_fiend">Invitar un amigo</string>
+    <string name="text_SENDeros">SENDeros 2023</string>
+</resources>
